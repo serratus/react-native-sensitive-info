@@ -6,8 +6,9 @@
   },
   "license": "MIT",
   "dependencies": {
-    "react": "16.0.0",
-    "react-native": "0.49.5",
+    "prop-types": "^15.6.2",
+    "react": "^16.4.2",
+    "react-native": "^0.56.0",
     "react-native-sensitive-info": "file:../"
   },
   "devDependencies": {
